@@ -1,6 +1,6 @@
 #define number short
-#define myCount 5
-#define maxCountDel 4
+#define myCount 20
+#define maxCountDel 15
 #include<iostream>
 #include<vector>
 #include<map>
